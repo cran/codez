@@ -1,0 +1,11 @@
+2351cfdcacf2bc5f7acc53e116a63249 *DESCRIPTION
+e5cf73381aa8044dd38e13ee1cf1b347 *NAMESPACE
+2ce9785b19d86119f19e3507d9d82419 *NEWS.md
+a06ed2a7a037c6c314b2ee0ee3c4a3ca *R/codez.R
+b93b059628f84660cd4b026d40c6b622 *R/data.R
+2c31529632078c80308a521f72f92bd0 *R/main.R
+f899936031bc7b6b69f86b9e2913572c *data/amzn_aapl_fb.rda
+4a6b574aa10523aaa426c80453e1fb79 *man/amzn_aapl_fb.Rd
+d67070709a4de12f8493a177c3524feb *man/codez.Rd
+331944d8e22d418754c3fa130c50308a *tests/testthat.R
+bbc808020661d16b0933bf4412880336 *tests/testthat/test-main.R
